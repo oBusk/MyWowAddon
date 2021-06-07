@@ -1,0 +1,4 @@
+## Interface: 9005
+## Title: My Wow Addon
+## Author: oBusk
+## Version: 0.0.1
