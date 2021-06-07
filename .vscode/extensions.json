@@ -1,5 +1,6 @@
 {
     "recommendations": [
-        "septh.wow-bundle"
+        "septh.wow-bundle",
+        "koihik.vscode-lua-format"
     ]
 }
